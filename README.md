@@ -56,6 +56,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ```
 
 
+**Zaman Çizelgesi**
 
- Last Updated on 14/10/2022 06:45:18 UTC
+![Chart not found](https://raw.githubusercontent.com/HasanCihatS/HasanCihatS/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/10/2022 06:54:18 UTC
 <!--END_SECTION:waka-->
