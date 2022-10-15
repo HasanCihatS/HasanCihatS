@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20Goruntulenme%20Sayisi-331-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20Goruntulenme%20Sayisi-344-blue)
 
-![Lines of code](https://img.shields.io/badge/Merhaba%20D%C3%BCnya%27dan%20Beri%20Yaz%C4%B1yorum-162%20Thousand%20kod%20sat%C4%B1r%C4%B1-blue)
+![Lines of code](https://img.shields.io/badge/Merhaba%20D%C3%BCnya%27dan%20Beri%20Yaz%C4%B1yorum-160%20Thousand%20kod%20sat%C4%B1r%C4%B1-blue)
 
 **🐱 GitHub Verilerim** 
 
-> 🏆 84 Katkı, 2022 Yılında
+> 🏆 87 Katkı, 2022 Yılında
  > 
 > 📦 149.9 kB GitHub's Depolama Alanı Kullanıldı 
  > 
@@ -57,5 +57,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 10:44:29 UTC
+ Last Updated on 15/10/2022 18:56:56 UTC
 <!--END_SECTION:waka-->
