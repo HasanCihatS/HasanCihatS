@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20Goruntulenme%20Sayisi-23-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20Goruntulenme%20Sayisi-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/Merhaba%20D%C3%BCnya%27dan%20Beri%20Yaz%C4%B1yorum-160%20Thousand%20kod%20sat%C4%B1r%C4%B1-blue)
 
@@ -57,5 +57,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 18:53:49 UTC
+ Last Updated on 31/10/2022 18:55:23 UTC
 <!--END_SECTION:waka-->
