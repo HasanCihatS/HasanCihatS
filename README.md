@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20Goruntulenme%20Sayisi-2-blue)
 
@@ -56,5 +56,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 18:42:11 UTC
+ Last Updated on 03/01/2023 18:43:21 UTC
 <!--END_SECTION:waka-->
